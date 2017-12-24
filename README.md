@@ -95,7 +95,7 @@ Here's a simple .spread file:
     # Last          First           Age
 
     Doe             Jane            47
-    Koch            Christian       23
+    Koch            Charlotte       27
     Torvalds        Linus           43
     Doe             John            50
     Smith           Will            44

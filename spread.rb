@@ -1,5 +1,5 @@
 #
-# spread.rb -- Christian Koch <cfkoch@sdf.lonestar.org>
+# spread.rb -- Charlotte Koch <dressupgeekout@gmail.com>
 #
 # To effectively use this file, invoke Ruby like this:
 #

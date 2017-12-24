@@ -1,4 +1,4 @@
-# spread.awk -- Christian Koch <cfkoch@sdf.lonestar.org>
+# spread.awk -- Charlotte Koch <dressupgeekout@gmail.com>
 
 BEGIN {
   # Fields are separated by 1 or more tabs.
